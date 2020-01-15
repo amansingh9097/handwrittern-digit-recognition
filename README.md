@@ -1,2 +1,3 @@
 # handwritten digit recognition
-a classifier trained on the famous MNIST dataset consisting of 70,000 images of digits, handwritten by high school students and employees of the US Census Bureau.
+
+classifiers trained on MNIST 70,000 images dataset as well as Kaggle's 42,000 images dataset.
